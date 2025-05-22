@@ -1,8 +1,9 @@
 # 📊 Customer Churn Analysis
 
-This analysis investigates customer churn patterns to identify key factors influencing customer retention. By examining demographics, contract types, service usage, billing methods, and customer tenure, we aim to uncover actionable insights to reduce churn and improve business outcomes.
+This project investigates customer churn patterns to identify key factors influencing customer retention. By analyzing demographics, contract types, service usage, billing methods, and customer tenure, the goal is to uncover actionable insights that help reduce churn and improve business outcomes. The analysis was performed using Python, involving data cleaning, exploratory data analysis (EDA), and data visualization techniques.
 
 ---
+
 
 ## 🔑 Key Insights & Findings
 
