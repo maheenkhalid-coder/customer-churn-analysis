@@ -1,8 +1,5 @@
 # 📊 Customer Churn Analysis
 
----
-
-## 🎯 Objective  
 This analysis investigates customer churn patterns to identify key factors influencing customer retention. By examining demographics, contract types, service usage, billing methods, and customer tenure, we aim to uncover actionable insights to reduce churn and improve business outcomes.
 
 ---
